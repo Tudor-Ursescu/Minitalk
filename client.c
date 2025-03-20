@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/09 14:12:43 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/11 11:52:01 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 15:32:17 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "minitalk.h"
+#include "./includes/minitalk.h"
 
 void	send_null_terminator(int server_id, int result)
 {

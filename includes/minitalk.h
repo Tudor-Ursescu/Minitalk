@@ -6,7 +6,7 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/09 14:13:27 by tursescu          #+#    #+#             */
-/*   Updated: 2024/09/10 14:11:33 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/20 15:32:31 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,6 @@
 # include <stdlib.h>
 # include <signal.h>
 # include <unistd.h>
-# include "./libft/libft.h"
+# include "../libft/libft.h"
 
 #endif
